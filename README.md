@@ -12,7 +12,7 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=👁️+Profile+Views&color=c084fc&style=flat-square&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=farzanasaiba&label=👁️+Profile+Views&color=c084fc&style=flat-square&labelColor=1a1a2e" />
   &nbsp;
   <a href="https://linkedin.com/in/farzanabintekafil">
     <img src="https://img.shields.io/badge/LinkedIn-%23f9a8d4.svg?style=flat-square&logo=linkedin&logoColor=7c3aed&labelColor=1a1a2e" />
@@ -121,19 +121,19 @@ class Farzana:
 
 <div align="center">
 
-<!-- ⚠️ Replace YOUR_GITHUB_USERNAME with your actual GitHub username in ALL 4 links below -->
+<!-- ⚠️ Replace farzanasaiba with your actual GitHub username in ALL 4 links below -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c084fc&icon_color=f9a8d4&text_color=e2e8f0&ring_color=c084fc&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farzanasaiba&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c084fc&icon_color=f9a8d4&text_color=e2e8f0&ring_color=c084fc&count_private=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c084fc&text_color=e2e8f0&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanasaiba&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c084fc&text_color=e2e8f0&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=1a1a2e&ring=c084fc&fire=f9a8d4&currStreakLabel=c084fc&sideLabels=f9a8d4&dates=e2e8f0&stroke=c084fc&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=farzanasaiba&hide_border=true&background=1a1a2e&ring=c084fc&fire=f9a8d4&currStreakLabel=c084fc&sideLabels=f9a8d4&dates=e2e8f0&stroke=c084fc&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1a2e&color=c084fc&line=f9a8d4&point=ffffff&area=true&area_color=c084fc&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=farzanasaiba&bg_color=1a1a2e&color=c084fc&line=f9a8d4&point=ffffff&area=true&area_color=c084fc&hide_border=true" />
 
 </div>
 
@@ -143,8 +143,8 @@ class Farzana:
 
 <div align="center">
 
-<!-- ⚠️ Replace YOUR_GITHUB_USERNAME below -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=10&column=6" />
+<!-- ⚠️ Replace farzanasaiba below -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=farzanasaiba&theme=darkhub&no-frame=true&margin-w=10&column=6" />
 
 </div>
 
